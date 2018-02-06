@@ -34,11 +34,6 @@ body {
   margin-top: 20px!important;
 }
 
-::placeholder {
-  color: #fff!important;
-  opacity: 0;
-}
-
 a {
   color: #1FB57B;
   -webkit-transition: 0.5s;
