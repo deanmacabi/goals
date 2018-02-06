@@ -26,8 +26,8 @@ body {
   margin: 0 25px 75px 0;
 }
 
-.marg-top-40 {
-  margin-top: 40px;   
+.marg-top-neg-40 {
+  margin-top: -40px;   
 }
 
 .marg-top-20 {
