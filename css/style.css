@@ -27,11 +27,11 @@ body {
 }
 
 .marg-top-neg-40 {
-  margin-top: -40px;   
+  margin-top: -40px!important;   
 }
 
 .marg-top-20 {
-  margin-top: 20px;
+  margin-top: 20px!important;
 }
 
 a {
