@@ -34,8 +34,8 @@ body {
   margin-top: 20px!important;
 }
 
-.white-text ::placeholder {
-  color: white;
+::placeholder {
+  color: #fff!important;
   opacity: 0;
 }
 
