@@ -39,8 +39,8 @@ body {
   width: ;
 }
 
-.white::placeholder{
-  color: white;
+.white::placeholder, .white{
+  color: white!important;
 }
 
 a {
@@ -254,7 +254,6 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   box-shadow: none;
   border-color: #1FB57B;
-  color: white;
 }
 
 .fh5co-social {
