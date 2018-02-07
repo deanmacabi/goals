@@ -81,7 +81,7 @@
 				<h1><i class="sl-icon-badge"></i><a href="index.html"> GoalsForEver</a></h1>
 				<nav role="navigation">
 					<ul>
-						<li><a class="active" href="index">Home</a></li>
+						<li><a class="active" href="home">Home</a></li>
 						<li><a href="blog">Blog</a></li>
                         		<!-- <li><a href="folio.html">Folio</a></li> -->
 					<!-- <li><a href="services.html">Services</a></li> -->
