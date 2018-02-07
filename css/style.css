@@ -35,7 +35,7 @@ body {
 }
 
 .pad-top-40 {
-  padding-top: 40px;
+  padding-top: 40px!important;
 }
 
 .mainblogpic {
