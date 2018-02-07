@@ -39,6 +39,10 @@ body {
   width: ;
 }
 
+.white::placeholder{
+  color: white;
+}
+
 a {
   color: #1FB57B;
   -webkit-transition: 0.5s;
